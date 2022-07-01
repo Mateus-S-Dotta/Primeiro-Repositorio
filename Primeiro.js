@@ -1,1 +1,1 @@
-console.log("Dotta!");
+console.log("Dotta");
